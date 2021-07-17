@@ -1,0 +1,1 @@
+[11-Oct-2019 18:04:24 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\StockController::create() in /home3/hviewtech/muhinzi.rtraveler.com/app/Http/Controllers/StockController.php on line 237
